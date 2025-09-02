@@ -71,16 +71,37 @@ Mi contribución principal consistió en implementar de manera completa las hist
 
 ## Artefactos y Evidencia  
 
-- ![Api de Stripe funcionando antes de pagar](https://drive.google.com/uc?id=1mWWsYBYSkUZbxQ9amIYtVYVrMK1T7M_A)
-- ![Api de Stripe funcionando antes de pagar 2da parte](https://drive.google.com/uc?id=1Pa3OWKWijLrd0tSA22otweEpsuuKN2tw)
-- ![Checkout y formulario de envio antes de pagar 2](https://drive.google.com/uc?id=1GW5Omb3G1idUoghOGuF3rFjNgqDAm9Bg)
-- ![Checkout y formulario de envio antes de pagar](https://drive.google.com/uc?id=1MiUv4rj0wA3gatpeBqYq92hvUxSzCkjg)
-- ![Copia de enlace del producto a Instagram](https://drive.google.com/uc?id=1DPiWA5GqIix4ePrzYOHZPJ-D8GmfMlUh)
-- ![Integración de redes sociales](https://drive.google.com/uc?id=1cfWa99dnzKKHXLfxD3Lo_a1rRBH1XOCT)
-- ![Número único para cada venta de Stripe](https://drive.google.com/uc?id=14I2H8HxEXlVbvk9Mpwcxq3-e2d6AqR8F)
-- ![Prueba dentro de Stripe](https://drive.google.com/uc?id=1DcrPDYiy1HeFH9ON8fGXsIkDaoT7BnoC)
-- ![Prueba dentro de Telegram](https://drive.google.com/uc?id=10yM8ZwLRJzxaVKGdVDA829bMn0QHgQov)
-- ![Prueba dentro de WhatsApp](https://drive.google.com/uc?id=1fFVIN21ENOdzV4YCZzKVyqpj6tZgzHpc)
+
+### API de Stripe funcionando antes de pagar
+![Api de Stripe funcionando antes de pagar](https://drive.google.com/uc?id=1mWWsYBYSkUZbxQ9amIYtVYVrMK1T7M_A)
+
+### API de Stripe funcionando antes de pagar (2da parte)
+![Api de Stripe funcionando antes de pagar 2da parte](https://drive.google.com/uc?id=1Pa3OWKWijLrd0tSA22otweEpsuuKN2tw)
+
+### Checkout y formulario de envío antes de pagar 2
+![Checkout y formulario de envio antes de pagar 2](https://drive.google.com/uc?id=1GW5Omb3G1idUoghOGuF3rFjNgqDAm9Bg)
+
+### Checkout y formulario de envío antes de pagar
+![Checkout y formulario de envio antes de pagar](https://drive.google.com/uc?id=1MiUv4rj0wA3gatpeBqYq92hvUxSzCkjg)
+
+### Copia de enlace del producto a Instagram
+![Copia de enlace del producto a Instagram](https://drive.google.com/uc?id=1DPiWA5GqIix4ePrzYOHZPJ-D8GmfMlUh)
+
+### Integración de redes sociales
+![Integracion de redes sociales](https://drive.google.com/uc?id=1cfWa99dnzKKHXLfxD3Lo_a1rRBH1XOCT)
+
+### Número único para cada venta de Stripe
+![Número único para cada venta de Stripe](https://drive.google.com/uc?id=14I2H8HxEXlVbvk9Mpwcxq3-e2d6AqR8F)
+
+### Prueba dentro de Stripe
+![Prueba dentro de Stripe](https://drive.google.com/uc?id=1DcrPDYiy1HeFH9ON8fGXsIkDaoT7BnoC)
+
+### Prueba dentro de Telegram
+![Prueba dentro de Telegram](https://drive.google.com/uc?id=10yM8ZwLRJzxaVKGdVDA829bMn0QHgQov)
+
+### Prueba dentro de WhatsApp
+![Prueba dentro de WhatsApp](https://drive.google.com/uc?id=1fFVIN21ENOdzV4YCZzKVyqpj6tZgzHpc)
+
 
 - **Documentacion creada**
 - Mi trabajo quedó reflejado en los *commits* documentados en el repositorio de GitHub, los cuales respaldan de manera verificable mi aporte en el desarrollo del proyecto. Asimismo, la documentación complementaria de mis avances y contribuciones se encuentra registrada en los entregables correspondientes a los **Sprints 1, 2 y 3**, lo que garantiza la trazabilidad de mi participación dentro del proceso ágil.
