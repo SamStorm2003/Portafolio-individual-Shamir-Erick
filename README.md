@@ -20,11 +20,16 @@ Mi contribución personal dentro del proyecto fue como desarrollador frontend-ba
 - **Herramientas:** GitHub, Stripe API
 
 ### Contribuciones Clave del Código  
-1. [Implementación Inicial del Checkout con Stripe](https://github.com/Jhoel777ar/marketplace-lpz/commit/83b217bdc4eb89fbbbdfcd8ca57bdad9a411d87d)
-2. [Integración de checkout funcionando con la base de datos](https://github.com/Jhoel777ar/marketplace-lpz/commit/cb46b115ad15edbc7d3a69f10bf310e04b954186)
-3. [Actualizacion de inventario luego de la venta con Stripe](https://github.com/Jhoel777ar/marketplace-lpz/commit/3ddd64adf5ca5ae4ed3fa38b0485c0b033421c9c)
-4. [Solicitar dirección del usuario antes del pago con Stripe](https://github.com/Jhoel777ar/marketplace-lpz/commit/51c16b894f1294b622a5adf18c3c1e1ab247066b)
-5. [Integración con redes sociales funcional asegurando privacidad de datos autorizados](https://github.com/Jhoel777ar/marketplace-lpz/commit/39589ab7b2cb1f2598523650b3c71d2020e57ed2#diff-94b897eb35168c09076b979d6cf9fa2c1bbc711829e0de33f1feded85115de2c)
+## Commits Destacados
+
+A continuación se presentan los *commits* que evidencian mi participación en el desarrollo del proyecto, incluyendo implementación de funcionalidades clave y mejoras en la integración con servicios externos:
+
+1. [Implementación inicial del Checkout con Stripe](https://github.com/Jhoel777ar/marketplace-lpz/commit/83b217bdc4eb89fbbbdfcd8ca57bdad9a411d87d)  
+2. [Integración del Checkout funcionando con la base de datos](https://github.com/Jhoel777ar/marketplace-lpz/commit/cb46b115ad15edbc7d3a69f10bf310e04b954186)  
+3. [Actualización de inventario luego de la venta con Stripe](https://github.com/Jhoel777ar/marketplace-lpz/commit/3ddd64adf5ca5ae4ed3fa38b0485c0b033421c9c)  
+4. [Solicitud de dirección del usuario antes del pago con Stripe](https://github.com/Jhoel777ar/marketplace-lpz/commit/51c16b894f1294b622a5adf18c3c1e1ab247066b)  
+5. [Integración con redes sociales funcional, asegurando privacidad de datos autorizados](https://github.com/Jhoel777ar/marketplace-lpz/commit/39589ab7b2cb1f2598523650b3c71d2020e57ed2#diff-94b897eb35168c09076b979d6cf9fa2c1bbc711829e0de33f1feded85115de2c)
+
 
 
 ## Desafíos Técnicos Resueltos  
